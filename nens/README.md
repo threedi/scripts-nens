@@ -7,4 +7,4 @@ How to install a package in an Anaconda environment using pip?
 
 1. Open *Anaconda Prompt*
 2. Activate the correct environment: *activate <<environment_name>>*
-3. Install the package: pip install *<<package_name>>*
+3. Install the package: *pip install <<package_name>>*
