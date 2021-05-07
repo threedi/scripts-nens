@@ -5,6 +5,7 @@ In this folder you can find 3 different Jupyter notebooks making use of the API 
 - notebook 1: From starting your simulation to analysing your results
 - notebook 2: Using 3Di and Lizard together in one notebook for validation purposes
 - notebook 3: Download a maximum waterdepth raster from Lizard from a 3Di simulation
+
 This repository aims to exchange and showcase scripts around [3Di hydrodynamic
 modelling software](http://www.3diwatermanagement.com/).
 
