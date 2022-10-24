@@ -34,4 +34,4 @@ Required packages:
 - shapely
 
 
-If you have any questions, feel free to contact Valerie Demetriades (valerie.demetriades@nelen-schuurmans.nl).
+If you have any questions, feel free to contact us (info@3diwatermanagement.com).
